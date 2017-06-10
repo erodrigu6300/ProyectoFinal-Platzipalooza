@@ -1,0 +1,19 @@
+.pricing-table {
+  /*border: solid 1px #DDDDDD;*/ }
+  .pricing-table li {
+    border-bottom: dotted 1px #DDDDDD;
+    padding: 0.875rem 1.125rem; }
+    .pricing-table li:last-child {
+      border-bottom: 0; }
+  .pricing-table .title {
+    background-color: #333333;
+    color: #EEEEEE;
+    border-bottom: 0; }
+  .pricing-table .price {
+    background-color: #F6F6F6;
+    color: #333333;
+    border-bottom: 0; }
+  .pricing-table .description {
+    color: #777777; }
+  .pricing-table .button {
+    margin: 0; }
